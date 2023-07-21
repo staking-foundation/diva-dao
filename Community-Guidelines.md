@@ -4,7 +4,7 @@
 
 The Diva Staking Decentralized Autonomous Organization (the ‘Diva Staking DAO’) is an unincorporated association of individuals, entities, associations and/or other persons or groups of persons holding the DIVA token AND having completed a process referred to as “delegation”. The Diva Staking DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
 
-The Diva Staking DAO purpose is the curation and updating of the public software materials referred to as the Diva Protocol. For the avoidance of doubt the Diva Staking DAO is not intended to administering or managing the Diva Protocol in any manner whatsoever, being its mission limited to making the blockchain interaction commonly known as ‘staking’ more accessible, efficient and resilient by the usage of non-proprietary software 
+The Diva Staking DAO purpose is the curation and updating of the public software materials referred to as the Diva Protocol. For the avoidance of doubt the Diva Staking DAO is not intended to administering or managing the Diva Protocol in any manner whatsoever, being its mission limited to making the blockchain interaction commonly known as ‘staking’ more accessible, efficient and resilient by the usage of non-proprietary software.
 
 ## Section 2. Governance Tokens
 
@@ -12,11 +12,11 @@ Diva Staking DAO governance tokens (the Governance Tokens) means the effectively
 
 ## Section 3. Excluded Tokens 
 
-DIVA Token(s) which have NOT being revocably delegated (either as self delegation or delegation to third parties) through the applicable designated governance smart contract of the Diva Staking DAO are NOT deemed as Diva Staking DAO governance tokens and have no power to submit any kind of DAO proposal, participate in the voting of any kind of DAO proposals. 
+DIVA Token(s) which have NOT being revocably delegated (either as self delegation or delegation to third parties) through the applicable designated governance smart contract of the Diva Staking DAO are NOT deemed as Diva Staking DAO governance tokens and have no power to submit any kind of DAO proposal, participate in the voting of any kind of DAO proposals.
 
 ## Section 4. DAO Resolutions.
 
- In accordance with the token amount thresholds set forth below in Section 5 for the submission of proposals, each Governance Token holder has the right to submit and vote on proposals (a ‘DAO Proposal’) and each proposal validly passed by Governance Token holders and not cancelled by the DAO governance mechanism is to be considered a ‘DAO Resolution’). 
+In accordance with the token amount thresholds set forth below in Section 5 for the submission of proposals, each Governance Token holder has the right to submit and vote on proposals (a ‘DAO Proposal’) and each proposal validly passed by Governance Token holders and not cancelled by the DAO governance mechanism is to be considered a ‘DAO Resolution’).
 
 ## Section 5. DAO Proposals. 
 
