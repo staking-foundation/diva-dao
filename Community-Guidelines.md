@@ -4,29 +4,29 @@
 
 The Diva Staking Decentralized Autonomous Organization (the ‘Diva Staking DAO’) is an unincorporated association of individuals, entities, associations and/or other persons or groups of persons holding the DIVA token AND having completed a process referred to as “delegation”. The Diva Staking DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
 
-The Diva Staking DAO purpose is the curation and updating of the public software materials referred to as the Diva Protocol. For the avoidance of doubt the Diva Staking DAO is not intended to administering or managing the Diva Protocol in any manner whatsoever, being its mission limited to making the blockchain interaction commonly known as ‘staking’ more accessible, efficient and resilient by the usage of non-proprietary software.
+The primary objective of the Diva Staking DAO is to curate and maintain the publicly available software resources known as the Diva Staking protocol. It is important to note that the Diva Staking DAO does not engage in administering or managing the Diva Staking protocol in any way. Instead, its mission is focused on enhancing the accessibility, efficiency, and resilience of the blockchain interaction commonly referred to as 'staking' through the utilization of non-proprietary software.
 
 ## Section 2. Governance Tokens
 
-Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
+Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Staking protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
 
 ## Section 3. Excluded Tokens 
 
-DIVA Token(s) which have NOT being revocably delegated (either as self delegation or delegation to third parties) through the applicable designated governance smart contract of the Diva Staking DAO are NOT deemed as Diva Staking DAO governance tokens and have no power to submit any kind of DAO proposal, participate in the voting of any kind of DAO proposals.
+DIVA Tokens that have not been revocably delegated, either through self-delegation or delegation to third parties, using the designated governance smart contract of the Diva Staking DAO, are not considered as Diva Staking DAO governance tokens. These tokens do not possess the authority to submit any type of DAO proposal or participate in the voting process for any DAO proposals.
 
 ## Section 4. DAO Resolutions.
 
-In accordance with the token amount thresholds set forth below in Section 5 for the submission of proposals, each Governance Token holder has the right to submit and vote on proposals (a ‘DAO Proposal’) and each proposal validly passed by Governance Token holders and not cancelled by the DAO governance mechanism is to be considered a ‘DAO Resolution’).
+As per the token amount thresholds outlined in Section 5 below, every holder of Governance Tokens holds the right to submit and participate in the voting of proposals, referred to as 'DAO Proposals.' Once a proposal is duly approved by the Governance Token holders and has not been invalidated by the DAO governance mechanism, it is recognized as a 'DAO Resolution.’
 
 ## Section 5. DAO Proposals. 
 
-Proposals may be submitted by any Governance Token holder holding at least 1 Million Governance Tokens subject to any applicable threshold and/or any frequency restriction or other parameter so designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
+Proposals may be submitted by any Governance Token holder holding at least 1 Million Governance Tokens subject to any applicable threshold, and/or any frequency restriction or other parameter designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
 
-There are three types of Proposals: 
+There are three types of Proposals:
 
-- DCP - Diva Curation Proposals; means proposals intended to distribute governance power among communities, sealing strategic partnerships, etc. 
-- DIP - Diva Improvement Proposals; means proposals aiming to adapt or modify a configurable feature of the Diva Protocol.
-- DUP - Diva Update Proposals; means complex proposals aiming to update the Diva Protocol core infrastructure and require some code implementation.  
+1.	DCP - Diva Curation Proposals; proposals intended to distribute governance power among communities, sealing strategic partnerships, etc.
+2.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Staking protocol.
+3.	DUP - Diva Update Proposals; complex proposals aiming to update core infrastructure and require some code implementation.
 
 ## Section 6. DAO Proposals Quorum and Thresholds. 
 
@@ -42,7 +42,7 @@ The thresholds initially set for each kind of proposal are as follows,
 
 ### 7.1. Temperature Check - NDP - New Diva Proposals Process
 
-In order for a proposal to be formally considered by the community an off chain process referred to as ‘temperature check’ must be followed.  Its main aim is to properly evaluate if the proposal intended to be submitted counts with enough interest and community support. 
+In order for a proposal to be formally considered by the community an off chain process referred to as a ‘temperature check’ must be followed. Its main objective is to properly evaluate if the proposal intended to be submitted gains enough interest and community support.
 
 The temperature check is done through the DAO offchain community forums by opening a new thread referring to the term “New Diva Proposal +[subject]”
 
@@ -63,7 +63,7 @@ The NDP shall contain at least the following:
 
 Proposals can only be submitted by those which have at least 1M D- DIVA delegated and it implies an on-chain transaction.
 
-Proposals can be submitted at tally.xyz/gov/diva on “create a new proposal”  
+Proposals can be submitted at https://tally.xyz/gov/diva by selecting “create a new proposal”  
 
 The proposal shall include the following structure: 
 
@@ -89,7 +89,7 @@ After such period has elapsed, considering a valid quorum of 10M D-DIVA has been
 
 ## Section 8. DAO Resolutions
 
-### 8.1. Queueing for execution and Cooldown Period
+### 8.1. Queueing for Execution and Cooldown Period
 
 Upon successful confirmation that the corresponding threshold and quorums have been met, an on-chain transaction is required to set the approved DAO Resolution in queue for its execution, starting a Cooldown Period through this transaction.
 
@@ -107,7 +107,7 @@ Any DAO Resolution can be challenged before it is executed due security consider
 
 In order to challenge a DAO Resolution a Cancellation Proposal must be submitted by a community participant counting with a governance power delegated of at least 1M D-tokens. 
 
-The Proposal shall clearly specify “Cancellation Proposal” and set clearly and consciously what is the harm prevented by the cancellation and other remedies proposed to avoid further damage to the Diva Protocol and or community. 
+The Proposal shall clearly specify “Cancellation Proposal” and set clearly and consciously what is the harm prevented by the cancellation and other remedies proposed to avoid further damage to the Diva Staking protocol and or community. 
 
 In order to be valid a cancellation proposal requires a quorum of at least 10M tokens and more than 50% of favourable votes. 
 
