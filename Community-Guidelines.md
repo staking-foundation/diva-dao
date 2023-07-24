@@ -23,9 +23,10 @@ As per the token amount thresholds outlined in Section 5 below, every holder of 
 Proposals may be submitted by any Governance Token holder holding at least 1 Million Governance Tokens subject to any applicable threshold, and/or any frequency restriction or other parameter designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
 
 There are three types of Proposals:
-a.	DCP - Diva Curation Proposals; proposals intended to distribute governance power among communities, sealing strategic partnerships, etc.
-b.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Protocol.
-c.	DUP - Diva Update Proposals; complex proposals aiming to update the Diva Protocol core infrastructure and require some code implementation.
+
+1.	DCP - Diva Curation Proposals; proposals intended to distribute governance power among communities, sealing strategic partnerships, etc.
+2.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Protocol.
+3.	DUP - Diva Update Proposals; complex proposals aiming to update the Diva Protocol core infrastructure and require some code implementation.
 
 ## Section 6. DAO Proposals Quorum and Thresholds. 
 
