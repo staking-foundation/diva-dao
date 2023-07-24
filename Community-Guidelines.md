@@ -4,11 +4,11 @@
 
 The Diva Staking Decentralized Autonomous Organization (the ‘Diva Staking DAO’) is an unincorporated association of individuals, entities, associations and/or other persons or groups of persons holding the DIVA token AND having completed a process referred to as “delegation”. The Diva Staking DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
 
-The primary objective of the Diva Staking DAO is to curate and maintain the publicly available software resources known as the Diva Protocol. It is important to note that the Diva Staking DAO does not engage in administering or managing the Diva Protocol in any way. Instead, its mission is focused on enhancing the accessibility, efficiency, and resilience of the blockchain interaction commonly referred to as 'staking' through the utilization of non-proprietary software.
+The primary objective of the Diva Staking DAO is to curate and maintain the publicly available software resources known as the Diva Staking protocol. It is important to note that the Diva Staking DAO does not engage in administering or managing the Diva Staking protocol in any way. Instead, its mission is focused on enhancing the accessibility, efficiency, and resilience of the blockchain interaction commonly referred to as 'staking' through the utilization of non-proprietary software.
 
 ## Section 2. Governance Tokens
 
-Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
+Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Staking protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
 
 ## Section 3. Excluded Tokens 
 
@@ -25,8 +25,8 @@ Proposals may be submitted by any Governance Token holder holding at least 1 Mil
 There are three types of Proposals:
 
 1.	DCP - Diva Curation Proposals; proposals intended to distribute governance power among communities, sealing strategic partnerships, etc.
-2.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Protocol.
-3.	DUP - Diva Update Proposals; complex proposals aiming to update the Diva Protocol core infrastructure and require some code implementation.
+2.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Staking protocol.
+3.	DUP - Diva Update Proposals; complex proposals aiming to update core infrastructure and require some code implementation.
 
 ## Section 6. DAO Proposals Quorum and Thresholds. 
 
@@ -63,7 +63,7 @@ The NDP shall contain at least the following:
 
 Proposals can only be submitted by those which have at least 1M D- DIVA delegated and it implies an on-chain transaction.
 
-Proposals can be submitted at tally.xyz/gov/diva by selecting “create a new proposal”  
+Proposals can be submitted at https://tally.xyz/gov/diva by selecting “create a new proposal”  
 
 The proposal shall include the following structure: 
 
@@ -107,7 +107,7 @@ Any DAO Resolution can be challenged before it is executed due security consider
 
 In order to challenge a DAO Resolution a Cancellation Proposal must be submitted by a community participant counting with a governance power delegated of at least 1M D-tokens. 
 
-The Proposal shall clearly specify “Cancellation Proposal” and set clearly and consciously what is the harm prevented by the cancellation and other remedies proposed to avoid further damage to the Diva Protocol and or community. 
+The Proposal shall clearly specify “Cancellation Proposal” and set clearly and consciously what is the harm prevented by the cancellation and other remedies proposed to avoid further damage to the Diva Staking protocol and or community. 
 
 In order to be valid a cancellation proposal requires a quorum of at least 10M tokens and more than 50% of favourable votes. 
 
