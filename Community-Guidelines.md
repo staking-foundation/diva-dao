@@ -8,7 +8,7 @@ The primary objective of the Diva Staking DAO is to curate and maintain the publ
 
 ## Section 2. Governance Tokens
 
-The primary objective of the Diva Staking DAO is to curate and maintain the publicly available software resources known as the Diva Protocol. It is important to note that the Diva Staking DAO does not engage in administering or managing the Diva Protocol in any way. Instead, its mission is focused on enhancing the accessibility, efficiency, and resilience of the blockchain interaction commonly referred to as 'staking' through the utilization of non-proprietary software.
+Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
 
 ## Section 3. Excluded Tokens 
 
@@ -62,7 +62,7 @@ The NDP shall contain at least the following:
 
 Proposals can only be submitted by those which have at least 1M D- DIVA delegated and it implies an on-chain transaction.
 
-Proposals can be submitted at tally.xyz/gov/diva on “create a new proposal”  
+Proposals can be submitted at tally.xyz/gov/diva by selecting “create a new proposal”  
 
 The proposal shall include the following structure: 
 
