@@ -8,7 +8,7 @@ The primary objective of the Diva Staking DAO is to curate and maintain the publ
 
 ## Section 2. Governance Tokens
 
-Diva Staking DAO governance tokens (the Governance Tokens) means the effectively delegated tokens associated with the Diva Protocol and referred to in https://github.com/staking-foundation and designated as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may find appropriate from time to time.
+“Diva Staking DAO governance tokens" refers to the tokens that have been effectively delegated and are associated with the Diva Protocol. These tokens are described in detail in GitHub located at https://github.com/staking-foundation and are specifically identified as "Delegated DIVA," "D-DIVA," "D-Tokens," or any other designation that the Diva Staking DAO may deem appropriate at various times.
 
 ## Section 3. Excluded Tokens 
 
@@ -22,9 +22,12 @@ As per the token amount thresholds outlined in Section 5 below, every holder of 
 
 Proposals may be submitted by any Governance Token holder holding at least 1 Million Governance Tokens subject to any applicable threshold, and/or any frequency restriction or other parameter designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
 
-There are three types of Proposals:
+**There are three types of Proposals:**
+
 a.	DCP - Diva Curation Proposals; proposals intended to distribute governance power among communities, sealing strategic partnerships, etc.
+
 b.	DIP - Diva Improvement Proposals; proposals aiming to adapt or modify a configurable feature of the Diva Protocol.
+
 c.	DUP - Diva Update Proposals; complex proposals aiming to update the Diva Protocol core infrastructure and require some code implementation.
 
 ## Section 6. DAO Proposals Quorum and Thresholds. 
@@ -35,7 +38,7 @@ The thresholds initially set for each kind of proposal are as follows,
 
 - DCP - more than 50% of favourable votes
 - DIP - more than 66% of favourable votes
-- DUP- more than 75% of favourable votes
+- DUP - more than 75% of favourable votes
 
 ## Section 7. DAO Proposals Procedures
 
@@ -51,7 +54,7 @@ Any member of the community at large may open a thread in the Diva Forum outlini
 
 The title of the thread shall include: NDP and a short description of the proposal 
 
-The NDP shall contain at least the following: 
+**The NDP shall contain at least the following:**
 
 - Short and concise description of the proposal
 - Rationale: why the proposal is necessary and what benefit will bring to the community
