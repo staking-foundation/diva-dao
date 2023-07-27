@@ -8,7 +8,8 @@ The primary objective of the Diva Staking DAO is to curate and maintain the publ
 
 ## Section 2. Governance Tokens
 
-“Diva Staking DAO governance tokens" refers to the tokens that have been effectively delegated and are associated with the Diva Protocol. These tokens are described in detail in GitHub located at https://github.com/staking-foundation and are specifically identified as "Delegated DIVA," "D-DIVA," "D-Tokens," or any other designation that the Diva Staking DAO may deem appropriate at various times.
+Diva Staking DAO governance tokens (the Governance Tokens) refers to the effectively delegated tokens associated with the Diva Protocol and referred to in
+https://github.com/staking-foundation and specifically identified as Delegated DIVA. D-DIVA. D-Tokens, or any other designation the Diva Staking DAO may deem appropriate from time to time.
 
 ## Section 3. Excluded Tokens 
 
