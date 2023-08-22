@@ -10,7 +10,7 @@ This proposal has been curated by @moss @elisafly, @gainzley here, posting from�
 
 As per governance DAO [guidelines](https://docs.staking.foundation/proposals), the proposal is brought by [donkotler.eth](https://www.tally.xyz/profile/0xacbabbb5b96b0e2889c27496fa33e6f26081e1a2?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70), who represents 1M+ delegated DIVA tokens and therefore meets the criteria to submit a binding DAO proposal.
 
-**Motivation**
+### Motivation
 
 Diva DAO, with [4300+ delegated voting holders](https://dune.com/kevinzzz/diva-dao), has initially distributed 100 million DIVA tokens (10% of total supply) to active Ethereum participants.
 
@@ -26,7 +26,7 @@ A pre-launch TVL initiative - with associated token distribution - for a new pro
 
 The Ethereum ecosystem benefits by adding diversity to its LST ecosystem, currently dominated by a single provider who holds >85% of LSTs and >30% of all staked ETH, which poses significant systemic risks.
 
-**Summary / TL;DR**
+### Summary / TL;DR
 
 The proposal presented the advantages of using the Enzyme platform and for the potential Early Stakers to participate by depositing in one of the 2 vaults in a non-custodial fashion.
 
@@ -35,11 +35,11 @@ The proposal presented the advantages of using the Enzyme platform and for the p
 - Enzyme's time-tested infrastructure, the waiver of protocol fees and other benefits are thoroughly highlighted in [the RFC](https://commonwealth.im/divastaking/discussion/12178-rfc-start-collecting-prelaunch-tvl-with-an-early-staker-program-powered-by-enzyme-vaults) (Infrastructure & Program Design).
 - For details on the [proposed T&Cs](https://commonwealth.im/divastaking/discussion/12393-rfc-proposed-terms-conditions-tcs-for-diva-early-stakers-vaults-on-enzyme-incl-token-distribution-criteria-for-program-participants) of the token distribution, please refer to the complementary RFC which will be submitted separately.
 
-**RFC - Tempcheck Status**
+### RFC - Tempcheck Status
 
 You can find the RFC on Commonwealth [here](https://commonwealth.im/divastaking/discussion/12178-rfc-start-collecting-prelaunch-tvl-with-an-early-staker-program-powered-by-enzyme-vaults), which was published on July 14th 2023. The non-binding Tempcheck vote has been closed out with 100% YES and 0% NO
 
-**Description of the proposed action**
+### Description of the proposed action
 
 This Diva Curation Proposal (DCP) introduces the creation of an Early Staker Initiative for Diva Staking, to be implemented on Enzyme vaults.
 
@@ -53,7 +53,7 @@ Associated decisions:
 
 All other aspects of the initiative are not part of this DCP, but are being discussed after the release of the second RFC laying out the [Terms & Conditions](https://commonwealth.im/divastaking/discussion/12393-rfc-proposed-terms-conditions-tcs-for-diva-early-stakers-vaults-on-enzyme-incl-token-distribution-criteria-for-program-participants), including the allocation of DIVA tokens for Avantgarde.
 
-**Technical implementation**
+### Technical implementation
 
 The following course of action is proposed:
 
@@ -66,7 +66,7 @@ The following course of action is proposed:
 - Once the initiative is up & running, Avantgarde proposes the [transfer of ownership](https://docs.enzyme.finance/managers/customise-your-settings/change-owner) from its multisig to the DAO Governor contract within 30 days from the kickoff date.
 - During the course of the initiative, Avantgarde will maintain the assets idle as described in the RFC, will implement the needed engineering work for the integration and will facilitate the computation of the token distribution for each participant.
 
-**Avantgarde's role**
+### Avantgarde's role
 
 As described in the RFC, it includes the following elements:
 
@@ -77,20 +77,20 @@ As described in the RFC, it includes the following elements:
 
 In general the proposal emphasises alignment, transparency, and community participation in building a sustainable future for the Ethereum ecosystem.
 
-**Notable changes**
+### Notable changes
 
 - Move the approval of the % allocation of DIVA tokens for Avantgarde from the scope of this proposal to the scope of the second complementary [proposal](https://commonwealth.im/divastaking/discussion/12393-rfc-proposed-terms-conditions-tcs-for-diva-early-stakers-vaults-on-enzyme-incl-token-distribution-criteria-for-program-participants) RFC (T&C)
 - Based on the same complementary [RFC](https://commonwealth.im/divastaking/discussion/12393-rfc-proposed-terms-conditions-tcs-for-diva-early-stakers-vaults-on-enzyme-incl-token-distribution-criteria-for-program-participants), Avantgarde self-imposes a 6-month additional vesting period (beyond the 365 days) that will lock the DIVA tokens distributed.
 - Pending final decision of the Enzyme DAO Council: include an audit competition for the new integrations of Lido & Diva Staking to be run in addition to the audit carried out by Chain Security.
 
-**Notable exclusions**
+### Notable exclusions
 
 The proposal does not include a third vault with denomination of rETH for the reasons explained [here](https://commonwealth.im/divastaking/discussion/12178-rfc-start-collecting-prelaunch-tvl-with-an-early-staker-program-powered-by-enzyme-vaults?comment=64291). It would be best as a possible extension with a further vote later on so it can be discussed separately. There are also workload implications Avantgarde needs to take into account and plan for.
 
-**Classification**
+### Classification
 
 This is a Diva Curation Proposal (DCP), requiring 50% positive votes to be enacted. DCPs are Intended to distribute governance power among communities.
 
-**Copyright waiver**
+### Copyright waiver
 
 Avantgarde Treasury, as the owner or rights holder of certain creative works, hereby waives specific rights under copyright law in favour of Diva Staking DAO. This waiver pertains to the works described as governance proposals, and includes the rights of reproduction, distribution, public display, and creation of derivative works. This waiver is granted for the purpose of this governance process. Proper attribution to us shall be provided by the recipient whenever the works are used or displayed. This waiver does not extend beyond the rights explicitly stated.
