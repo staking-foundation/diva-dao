@@ -93,7 +93,7 @@ After such period has elapsed, considering a valid quorum of 10M D-DIVA has been
 
 Upon successful confirmation that the corresponding threshold and quorums have been met, an on-chain transaction is required to set the approved DAO Resolution in queue for its execution, starting a Cooldown Period through this transaction.
 
-Initially the Cooldown period is being set as 6 days for DCPs and DIPs while DUPs have a cool down period of 10 days. 
+Cooldown period is currently set as 9 days for DCPs and DIPs, while DUPs have a cool down period of 14 days. This cooldown alows malicious proposals to be cancelled by submitting a cancellation proposal.
 
 During the Cooldown period an approved DAO Resolution still can be disputed and cancelled (see more below) 
 
@@ -111,5 +111,5 @@ The Proposal shall clearly specify “Cancellation Proposal” and set clearly a
 
 In order to be valid a cancellation proposal requires a quorum of at least 10M tokens and more than 50% of favourable votes. 
 
-The execution of said Cancellation Proposal can be fulfilled 2 hours after its approval.   
+The execution of said Cancellation Proposal can be fulfilled after 2 hours cooldown period after its approval.
 
