@@ -83,7 +83,7 @@ Initially the voting delay period is being set to 2 days
 
 ### 7.4. Proposal Voting Period
 
-Once the voting delay period has elapsed all the proposals have a predetermined voting period of 3 days upon submission under which any D-DIVA can vote in favour or object 
+Once the voting delay period has elapsed all the proposals have a predetermined voting period of 5 days upon submission under which any D-DIVA can vote in favour or object 
 
 After such period has elapsed, considering a valid quorum of 10M D-DIVA has been met and the correspondent voting threshold has been exceeded the proposal shall be considered passed and will become a DAO Resolution
 
