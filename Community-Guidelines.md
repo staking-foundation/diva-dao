@@ -20,7 +20,7 @@ As per the token amount thresholds outlined in Section 5 below, every holder of 
 
 ## Section 5. DAO Proposals. 
 
-Proposals may be submitted by any D-DIVA Token holder holding **at least 1 Million D-DIVA** subject to any applicable threshold, and/or any frequency restriction or other parameter designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
+Proposals may be submitted by any D-DIVA Token holder holding **at least 1 Million D-DIVA Tokens** subject to any applicable threshold, and/or any frequency restriction or other parameter designated by the Diva Staking DAO through the passage of a Diva Improvement Proposal (as defined below).
 
 There are three types of Proposals based on risk and potential impact levels:
 
@@ -62,7 +62,7 @@ The Temperature Check shall contain at least the following:
 
 ### 7.2. DAO Proposal submission
 
-Proposals can only be submitted by those which have **at least 1M D-DIVA** (as of the time of this writing) and it implies an on-chain transaction.
+Proposals can only be submitted by those which have **at least 1 Million D-DIVA Tokens** (as of the time of this writing) and it implies an on-chain transaction.
 
 Proposals can be submitted on [Tally](https://tally.xyz/gov/diva) by selecting “Create a new proposal”.
 
@@ -89,7 +89,7 @@ Once the voting delay period has elapsed, all the proposals have a voting period
 
 **The voting period is set to 5 days** as of the time of this writing.
 
-After such period has elapsed, considering **a valid quorum of 10M D-DIVA** (as of the time of this writing) has been met and the correspondent voting threshold has been exceeded the proposal shall be considered passed and will become a DAO Resolution
+After such period has elapsed, considering **a valid quorum of 10 Million D-DIVA Tokens** (as of the time of this writing) has been met and the correspondent voting threshold has been exceeded the proposal shall be considered passed and will become a DAO Resolution
 
 ## Section 8. DAO Resolutions
 
@@ -116,11 +116,11 @@ As the required functions to effectively implement the desired outcome have been
 
 Any DAO Resolution can be challenged before it is executed due security considerations such as governance attacks or fraudulent code implementation. 
 
-In order to challenge a DAO Resolution, a Cancellation Proposal must be submitted by a community participant counting with a governance power of **at least 1M D-tokens** (as of the time of this writing).
+In order to challenge a DAO Resolution, a Cancellation Proposal must be submitted by a community participant counting with a governance power of **at least 1 Million D-DIVA Tokens** (as of the time of this writing).
 
 The Proposal shall clearly specify “Cancellation Proposal” and set clearly and consciously what is the harm prevented by the cancellation and other remedies proposed to avoid further damage to the Diva Staking protocol and or community. 
 
-In order to be valid a cancellation proposal requires a quorum of at least 10M tokens and more than 50% of favourable votes (as of the time of this writing).
+In order to be valid a cancellation proposal requires a quorum of at least 10 Million D-DIVA Tokens and more than 50% of favourable votes (as of the time of this writing).
 
 The execution of said Cancellation Proposal can be fulfilled after 2 hours cooldown period after its approval.
 
