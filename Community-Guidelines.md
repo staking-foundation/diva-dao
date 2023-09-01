@@ -40,7 +40,12 @@ The thresholds initially set for each kind of proposal are as follows,
 
 ## Section 7. DAO Proposals Procedures
 
-Any DAO proposal starts with an idea, which can discussed organically by the community. Once the idea start to formalize, it should follow the steps below.
+Any DAO proposal starts with an idea, which can discussed organically by the community. Several channels in use are:
+
+- [Diva's Discord](https://discord.gg/diva)
+- [Commonwealth forum](https://commonwealth.im/divastaking/discussions)
+
+Once the idea start to formalize, it should follow the steps below.
 
 ### 7.1. Temperature Check / Request For Comments (RFC)
 
