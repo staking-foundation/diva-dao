@@ -51,20 +51,18 @@ Once the idea start to formalize, it should follow the steps below.
 
 In order for a proposal to be formally considered by the community, a Request for Comments and Temperature Check must be carried.
 
-This process has two parts
+This process has two parts:
 
-- Opening a new Request For Comments (RFC) discussion thread to collect community feedback.
-- Conducting a poll or non-binding way to evaluate if the proposal intended to be submitted gains enough interest and community support.
+- A **Request For Comments (RFC)** discussion thread to collect community feedback.
+- A **non-binding poll** to evaluate if the proposal gains enough interest and community support.
 
-The [Commonwealth forum](https://commonwealth.im/divastaking/discussions) is a good way to do this, as it allows both commenting and off-chain voting, but any openly accessible platform or channel can be used.
+The [Commonwealth forum](https://commonwealth.im/divastaking/discussions) is a good way to do this, as it allows for both discussion and off-chain voting, but any openly accessible platform or channel can be used.
 
-This thread is intended to provide all necessary information and collect feedback to prepare the formal proposal which would later be submitted for its voting and subsequent approval or rejection.
+The RFC is intended to provide all necessary information and collect feedback to prepare the formal proposal which would later be submitted for its voting and subsequent approval or rejection.
 
 Any member of the community at large may open a thread in the Diva Forum outlining the proposal which needs to be debated or any suggestion which may be deemed as beneficial to the community at large. 
 
-The title of the thread shall include a short description of the proposal.
-
-The Request for Comments / Temperature Check shall contain at least the following: 
+The RFC shall contain at least the following: 
 
 - **Title**: RFC + Proposal title.
 - **Description**: Short and concise description of the proposal.
