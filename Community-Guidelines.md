@@ -47,17 +47,24 @@ Any DAO proposal starts with an idea, which can discussed organically by the com
 
 Once the idea start to formalize, it should follow the steps below.
 
-### 7.1. Temperature Check / Request For Comments (RFC)
+### 7.1. Request For Comments (RFC) / Temperature Check
 
-In order for a proposal to be formally considered by the community, an off-chain process referred to as a ‘Temperature Check’ must be followed. Its main objective is to properly evaluate if the proposal intended to be submitted gains enough interest and community support.
+In order for a proposal to be formally considered by the community, a Request for Comments and Temperature Check must be carried.
 
-The Temperature Check is done through the DAO off-chain community forums by opening a new Request For Comments (RFC) discussion thread. This thread is intended to provide all necessary information and collect feedback to prepare the formal proposal which would later be submitted for its voting and subsequent approval or rejection.
+This process has two parts
+
+- Opening a new Request For Comments (RFC) discussion thread to collect community feedback.
+- Conducting a poll or non-binding way to evaluate if the proposal intended to be submitted gains enough interest and community support.
+
+The [Commonwealth forum](https://commonwealth.im/divastaking/discussions) is a good way to do this, as it allows both commenting and off-chain voting, but any openly accessible platform or channel can be used.
+
+This thread is intended to provide all necessary information and collect feedback to prepare the formal proposal which would later be submitted for its voting and subsequent approval or rejection.
 
 Any member of the community at large may open a thread in the Diva Forum outlining the proposal which needs to be debated or any suggestion which may be deemed as beneficial to the community at large. 
 
 The title of the thread shall include a short description of the proposal.
 
-The Temperature Check shall contain at least the following: 
+The Request for Comments / Temperature Check shall contain at least the following: 
 
 - **Title**: RFC + Proposal title.
 - **Description**: Short and concise description of the proposal.
