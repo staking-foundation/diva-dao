@@ -1,8 +1,12 @@
-# DCP-01: Early Staker Initiative powered by Enzyme vaults.
+---
+code: DCP-01
+title: Early Staker Initiative powered by Enzyme vaults
+posted_on: 2023-08-14
+url: https://www.tally.xyz/gov/diva/proposal/87485887634082742365047256619524632216107014477059444808141072263652653848832
+results: 87.28% YES votes, 9.39% NO votes, 191 addresses, 22.9M votes
+---
 
-- Proposed on: Aug 14th, 2023
-- Proposal: https://www.tally.xyz/gov/diva/proposal/87485887634082742365047256619524632216107014477059444808141072263652653848832
-- Results: 87.28% YES votes, 9.39% NO votes, 191 addresses, 22.9M votes
+# DCP-01: Early Staker Initiative powered by Enzyme vaults
 
 ## Description
 
