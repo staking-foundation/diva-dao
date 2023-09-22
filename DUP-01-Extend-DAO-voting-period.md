@@ -1,8 +1,12 @@
-# DUP-001: Extend DAO voting period
+---
+code: DUP-01
+title: Extend DAO voting period
+posted_on: 2023-08-07
+results: 100% YES votes, 0% NO votes, 453 addresses, 39.47M votes
+url: https://www.tally.xyz/gov/diva/proposal/56958626083257221666271982785321134035427569254871851122225553156063961119322
+---
 
-- Proposed on: Aug 7th, 2023
-- Proposal: https://www.tally.xyz/gov/diva/proposal/56958626083257221666271982785321134035427569254871851122225553156063961119322
-- Results: 100% YES votes, 0% NO votes, 453 addresses, 39.47M votes
+# DUP-001: Extend DAO voting period
 
 ## Description
 
