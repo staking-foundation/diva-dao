@@ -5,8 +5,8 @@ This repository is an effort by the Staking Foundation to keep a history of Diva
 It includes:
 
 - [Diva DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md)
-- Future DAO proposals (once they're posted, as none are live yet).
-- Any other resources relevant to DAO governance.
+- [Diva Improvement Proposals](https://github.com/staking-foundation/diva-dao/blob/main/DIPs) for Diva Staking DAO
+- [The Bylaws of The Staking Foundation](https://github.com/staking-foundation/diva-dao/blob/main/TSF-Bylaws.pdf)
 
 ## Relevant DAO links
 
