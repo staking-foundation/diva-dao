@@ -1,6 +1,6 @@
 ---
 code: DIP-03
-title: Commit to latest deadline for DIVA token transferabilitys
+title: Commit to latest deadline for DIVA token transferability
 posted_on: 2023-09-07
 results: 89.27% YES votes, 3.41% NO votes, 434 addresses, 37.75M votes
 url: https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644
