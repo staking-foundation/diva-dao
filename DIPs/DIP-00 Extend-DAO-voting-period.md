@@ -1,5 +1,5 @@
 ---
-code: DUP-01
+code: DIP-00
 title: Extend DAO voting period
 description: Should we extend current voting periods from 3 days to 5 or 7 days?
 author: donkotler.erh
