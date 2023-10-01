@@ -1,8 +1,10 @@
 ---
-code: DCP-01
+code: DIP-01
 title: Early Staker Initiative powered by Enzyme vaults
-posted_on: 2023-08-14
-results: 87.28% YES votes, 9.39% NO votes, 191 addresses, 22.9M votes
+description: Framework for an Early Staker initiative to boostrap pre-launch TVL
+author: https://avantgarde.finance
+risk_classification: low
+created: 2023-08-13
 url: https://www.tally.xyz/gov/diva/proposal/87485887634082742365047256619524632216107014477059444808141072263652653848832
 ---
 
