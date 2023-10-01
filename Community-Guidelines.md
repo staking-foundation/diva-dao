@@ -1,3 +1,5 @@
+*A version of these Community Guidelines were ratified by the Diva Staking DAO via [[DIP-04] Adopt Diva Staking DAO Community Guidelines](https://www.tally.xyz/gov/diva/proposal/83348890401949751744687944216855884103596472682649172974139622969919584955539), proposed on Sep 25th, 2023.*
+
 # Diva Staking DAO INITIAL COMMUNITY GUIDELINES 
 
 ## Section 1. Definition and Purpose
