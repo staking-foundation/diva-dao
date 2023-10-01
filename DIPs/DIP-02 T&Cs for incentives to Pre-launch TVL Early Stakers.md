@@ -3,6 +3,7 @@ code: DIP-02
 title: T&Cs for TVL incentives to Pre-launch Early Stakers
 description: Specific economic and technical details for the Early Staker iniative
 author: https://avantgarde.finance
+risk_classification: low
 created: 2023-09-07
 url: https://www.tally.xyz/gov/diva/proposal/45468458207916765916984557235161596151150976178275597160417224501662414206717
 results: 77.81% YES votes, 0.54% NO votes, 403 addresses, 37.21M votes
